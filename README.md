@@ -8,7 +8,7 @@ Members include:
 1. Kevin Jones Lamptey (10983384) - Administrator.
 2. Osei Asante Yort (10984534) - In charge of the teams social media handles
 3. Kludje Shadrack(10961673) - Wrote the first screen of the project and organised the xml liables.
-4. Jospeh Mensah (10990046) - Manage the github accounts and organised the quiz questions.
+4. Joseph Mensah (10990046) - Manage the github accounts and organised the quiz questions.
 5.Imbeah Fiifi Caleb ( 10984058) - Wrote the second screen for the quiz app.
 
 
